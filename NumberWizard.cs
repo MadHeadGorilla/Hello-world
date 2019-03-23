@@ -26,6 +26,7 @@ public class NumberWizard : MonoBehaviour
         Debug.Log("Ты можешь выбрать не менее: " + min);
         Debug.Log("Скажи пожалуйста твоё число меньше или больше чем" + guess);
         Debug.Log("Нажми вверх = больше, вниз = меньше, нажми Enter = правильно");
+        Debug.Log("Изучение возможностей GitHub")
 
     }
 
